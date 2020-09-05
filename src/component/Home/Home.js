@@ -10,7 +10,7 @@ const Home = () => {
         fetch('https://jsonplaceholder.typicode.com/posts')
         .then (res => res.json())
         .then (date => setPosts(date))
-    }, [])
+    }, []);
 
     return (
         <div className="main-container">    

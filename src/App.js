@@ -14,6 +14,9 @@ function App() {
         <Route path="/post/:postID">
           <BlogDetail/>
         </Route>
+        <Route exact path="/">
+          <Home/>
+        </Route>
       </Switch>
     </Router>
   );

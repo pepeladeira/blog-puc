@@ -18,12 +18,13 @@ const BlogComment = (props) => {
         .then(data => setComments(data))
     }, []);
 
+    const totalComment = comments.length;
 
     return (
         <div className="comment-section">
-            <h3>Comments on this post: {comments.length}</h3>
+            <h3>Comments on this post: {totalComment}</h3>
             {
-                comments.map(comm => <BlogCommentDetail comments={comm} key={comm.id}></BlogCommentDetail>)
+                comments.map(comm => <BlogCommentDetail totalComment={totalComment} comments={comm} key={comm.id}></BlogCommentDetail>)
             }
         </div>
     );

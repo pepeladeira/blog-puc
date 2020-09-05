@@ -1,0 +1,27 @@
+.main-container{
+    width: 80%;
+    background-color: #F5F5F5;
+    margin: 50px auto;
+    padding: 10px;
+    font-style: italic;
+}
+
+.main-container h2{
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.main-container button {
+    border: none;
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: #333;
+    background: lightblue;
+    font-style: italic;
+    padding: 2px 10px;
+    cursor: pointer;
+}
+
+.main-container button:focus {
+    outline: none;
+}

@@ -13,7 +13,7 @@ const BlogDetail = () => {
   useEffect(() => {
     const filteredPost = postsJson.filter((post) => post.id === postID);
     setPost(filteredPost[0]);
-  }, []);
+  }, [postID]);
 
   return (
     <div className="post-container">

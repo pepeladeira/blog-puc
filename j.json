@@ -1,0 +1,37 @@
+[
+    {
+     "title": "Transformação do 2 Pong",
+     "body": "A transformação do 2 Pong foi um remix desse clássico jogo do Scratch. Tomás e Jeremias - The Chase é um jogo inspirado no desenho animado Tom e Jerry. Nesse jogo, sua missão é não deixar Jeremias ser pego por Tomás. Para aumentar a dinâmica do jogo, conforme sua pontuação aumenta, a dificuldade também aumenta, com mais Jeremias e Tomás. No desenho, Jerry sempre corria para a portinha. Você também terá essas opções de escape. Fique ligado, pois o jogo também vai te ajudar.",
+     "videoURl": "https://www.youtube.com/embed/R7a9E0CMADs",
+     "projectLink": "https://scratch.mit.edu/projects/501363821",
+     "id": "1"
+    },
+    {
+     "title": "Brincando com Arduinos",
+     "body": "O brincando com Arduinos foi a primeira vez que mexi com Arduinos. Nesse projeto, há um arduino que toca música e outro que mostra uma mensagem no LCD.",
+     "videoURl": "https://www.youtube.com/embed/xsuOUyVMP1I",
+     "projectLink": "https://www.tinkercad.com/things/ke7BOTMTqVT",
+     "id": "2"
+    },
+    {
+     "title": "Plataforma Spare",
+     "body": "Está com dificuldades para gerenciar o seu dinheiro? Acesse essa plataforma que resolverá seus problemas. Essa é uma ferramenta simples mas extremamente útil para você, nela você consegue salvar as entradas e saídas do seu dinheiro e analizar com uma maior clareza os seus gastos.",
+     "videoURl": "https://www.youtube.com/embed/FCO-MEl6OGU",
+     "projectLink": "https://icei-puc-minas-pplcc-ti.github.io/tiaw-ppl-cc-m-20211-grupo-10-financas/index.html",
+     "id": "3"
+    },
+    {
+     "title": "Ao redor da câmera",
+     "body": "Ao redor da camêra é um projeto desenvolvido para a matéria de DIW. Nesse site, você consegue procurar por filmes e conhecê-los um pouco mais, usando a API do MoviesBD.",
+     "videoURl": "https://www.youtube.com/embed/wzSR_KJ-GQQ",
+     "projectLink": "https://disneyplus-clone.vercel.app/",
+     "id": "4"
+    },
+    {
+     "title": "Quiz de Cientistas da Computação",
+     "body": "O Quiz de Cientistas da Computação foi um trabalho desenvolvido para a matéria de LIP. Nesse jogo, você irá se aprofundar nos ganhadores do Prêmio Nobel, Turing Awards e ainda conhecer sobre temas de Ciência da Computação.",
+     "videoURl": "https://www.youtube.com/embed/RWhNg49rXkI",
+     "projectLink": "https://pepeladeira.github.io/multiplayer-game/",
+     "id": "5"
+    }
+   ]
